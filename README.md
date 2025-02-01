@@ -54,6 +54,11 @@ Open your browser and go to http://localhost:3000.
 
 # Usage
 
+Change .env to env.template 
+
+VITE_API_URL=http://localhost:4000/api
+
+
 Open the application in your browser.
 
 Navigate through the calendar to view different days, weeks, or months.
