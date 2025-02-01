@@ -28,6 +28,8 @@ Libraries: Moment.js or Day.js (for date management), React Calendar or FullCale
 
 Tools: Vite, Babel.
 
+Deploy: Netlify.
+
 Installation
 
 Follow these steps to set up the project locally:
